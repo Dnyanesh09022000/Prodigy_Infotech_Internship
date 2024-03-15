@@ -1,2 +1,2 @@
 # Prodigy_Infotech_Internship
-Prodigy Infotech Tasks
+prodigy infotech internship in Data Science 2024 
